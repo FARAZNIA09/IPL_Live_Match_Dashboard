@@ -32,7 +32,7 @@ A real-time IPL dashboard built using Python, SQL Server, and Power BI.
 
 ## 📸 Dashboard Preview
 
-![Dashboard]([Screenshots/Screenshot 2026-04-13 220925.png](https://github.com/FARAZNIA09/IPL_Live_Match_Dashboard/blob/abcfbda33d5c8dd26be80561a39f2ce782ecc4cb/IPL%20Dashboard/Screenshots/SRC))
+![](Screenshots/SCR.png)
 
 ## 💡 Learnings
 
